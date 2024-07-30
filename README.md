@@ -74,6 +74,15 @@ This dataset was already cleaned. Data types were changed to whatever was approp
 
 
 
+    ![](https://github.com/kayenymiriam/TECH-JOB-SALARIES-GLOBALLY/blob/main/sqlcode1.png)
+
+
+
+
+
+
+
+
 ### CONCLUSIONS AND RECOMMENDATIONS
 Despite variations in the dataset, the following can be deduced:
 - The United States of America offers the most well-paying jobs in the technology field.
