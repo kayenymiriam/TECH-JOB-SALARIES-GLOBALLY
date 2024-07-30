@@ -47,12 +47,17 @@ This dataset was already cleaned. Data types were changed to whatever was approp
     - Overall, Russia, the United States of America, New Zealand, and Japan paid the highest.
     It should be noted that the United States of America has companies that employed more than 50% of the employees in this dataset with an overall average pay of $144,055.26.
 
-
 5. On employment type:
     - In 2020 and 2021, employees on a contract basis earned significantly more than those who worked full-time and part-time. However, this changed in 2022 as employers paid those employed full-time and part-time significantly more than those on a contract basis. Overall, those paid on a contract basis earned more than their counterparts.
     - Contract jobs often lack job security and extra benefits, so it is probable that in 2020 and 2021, most employers found it safer to employ employees on a contract basis to avoid providing benefits like health insurance during the COVID-19 pandemic. Later, in 2022, there was a significant change, probably due to the fact that most companies had recovered financially.
   
-![]
+![](https://github.com/kayenymiriam/TECH-JOB-SALARIES-GLOBALLY/blob/main/dashboard.png)
+
+
+
+
+
+
 6. On analysis of average salary per job title:
     Of the 50 different job titles, Data Engineers, Data Science Managers, AI Scientists, Data Analysts, Applied Data Scientists, Computer Vision Software Engineers, Data Architects, Data Analytics Managers, Heads of Data Science, Data Engineering Managers, and Principal Data Scientists had an increase in their average salary from 2020 to 2022. 
     Other job titles had unclear trends.
