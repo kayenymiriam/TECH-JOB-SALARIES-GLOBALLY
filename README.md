@@ -64,7 +64,17 @@ This dataset was already cleaned. Data types were changed to whatever was approp
     The highest-paid employees were Financial Analysts in 2021 ($450,000) followed by a Data Analytics Lead in 2022 ($405,000).
     The lowest-paid employees were 3D Computer Vision Researchers in 2021 ($5,409) followed by ML Engineers in 2022 ($10,991).
 
-CONCLUSIONS AND RECOMMENDATIONS
+   ![](https://github.com/kayenymiriam/TECH-JOB-SALARIES-GLOBALLY/blob/main/dashboard2.png)
+
+
+
+
+
+
+
+
+
+### CONCLUSIONS AND RECOMMENDATIONS
 Despite variations in the dataset, the following can be deduced:
 - The United States of America offers the most well-paying jobs in the technology field.
 - Contract jobs pay more but rarely include allowances.
