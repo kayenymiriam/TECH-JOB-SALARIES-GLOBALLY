@@ -4,7 +4,7 @@
 
 
 ### INTRODUCTION
-This is a Power BI and SQL project on the analysis of employment-related information for employees in the technology industry.
+This is a Power BI and SQL (SQL Server Management Studio) project on the analysis of employment-related information for employees in the technology industry.
 
 ### OBJECTIVES
 1. What are the most common job titles in the dataset?
