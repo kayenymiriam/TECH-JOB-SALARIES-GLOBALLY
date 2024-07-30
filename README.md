@@ -1,0 +1,3 @@
+# GLOBAL TECH SALARIES
+
+![]
